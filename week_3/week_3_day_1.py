@@ -246,13 +246,21 @@ print(sqrt(36)) #square root method
 # # **Getting Input from users**
 # #how do we get input from users?
 # input("what is your name?")
+name = input("what is your name?")
+print("Hello", name)
 # # basic math calculator
 # #ask the user for 2 numbers
+x = int(input("Give me one number"))
+y = int(input("Give me another number"))
 # # print out a statement where you:
 # # add them together
-# #multiply
-# # find the max number
-# # find the remainder of the numbers
+print(x + y)
+# # #multiply
+print(x * y)
+# # # find the max number
+print(max(x, y))
+# # # find the remainder of the numbers
+print(x % y)
 # #round one number
 
 
