@@ -262,6 +262,7 @@ print(max(x, y))
 # # # find the remainder of the numbers
 print(x % y)
 # #round one number
+print(round(x))
 
 
 
