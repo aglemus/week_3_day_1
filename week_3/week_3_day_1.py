@@ -106,12 +106,26 @@ print(f"Still, {name} was the best coder on the team and could write {number} li
 
 
 # 1st_name
+# first_name
+
 # last name
+# last_name
+
 # email@address
+# email_address
+
 # percent%
+# percent
+
 # variable#name
+# variable_name
+
 # O
+# zero
+
 # list
+# list_of_names
+
 # Creating Valid Names: Create valid names for the following descriptions:
 
 
@@ -132,10 +146,18 @@ print(f"Still, {name} was the best coder on the team and could write {number} li
 # email_address
 # percentage
 # variable_name
+
 # 1_variable
+# first_variable
+
 # email@address
+# email_address
+
 # percentage%
+# percentage
+
 # i
+# igloo
 
 
 
